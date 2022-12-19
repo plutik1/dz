@@ -11,3 +11,4 @@ if (i > b)
  if (i < b)
     Console.Write("наибольшее число = ");
     Console.Write( b );
+
