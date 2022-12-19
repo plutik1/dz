@@ -7,3 +7,4 @@ for (int i = 2; i <= a; i= i+2)
     
     Console.WriteLine(i);
 }
+
