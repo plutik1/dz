@@ -11,3 +11,5 @@ Console.Write("число четное");
 
 if (del == 1)
 Console.Write("число нечетное");
+
+
